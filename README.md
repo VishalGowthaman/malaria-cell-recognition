@@ -39,6 +39,10 @@ Our dataset comprises 27,558 cell images, evenly split between parasitized and u
 9. We demonstrate the model's practical use by randomly selecting and testing a new cell image for classification.
 
 ## PROGRAM
+```
+Developed By : Vishal Gowthaman K R
+Reg No : 212221230123
+```
 
 ### Import necessary libraries:
 ```python
